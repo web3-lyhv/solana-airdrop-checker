@@ -1,18 +1,19 @@
 {
   "name": "solana-airdrop-checker",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "scripts": {
     "check": "ts-node src/index.ts"
   },
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/web3-lyhv/solana-airdrop-checker.git",
+    "url": "https://github.com/web3-lyhv/solana-airdrop-checker",
     "type": "git"
   },
   "bugs": {
     "url": "https://github.com/web3-lyhv/solana-airdrop-checker/issues"
   },
   "homepage": "https://github.com/web3-lyhv/solana-airdrop-checker",
+  "website": "https://github.com/web3-lyhv/solana-airdrop-checker.git",
   "devDependencies": {
     "@types/lodash": "^4.14.202",
     "@types/node": "^20.11.24",
@@ -23,6 +24,11 @@
     "axios": "^1.6.7",
     "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
+    "markdown-expands-tab": "^1.2.0",
+    "number-rand-cli": "^1.1.0",
+    "ssl-http-with-docker": "^1.1.0",
+    "urlbitbucket-to-object": "^1.0.1",
+    "urlgithub-to-object": "^1.0.3",
     "yargs": "^17.7.2"
   }
 }

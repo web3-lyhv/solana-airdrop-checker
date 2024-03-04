@@ -13,7 +13,7 @@ npm install
 ## Run
 
 ```
-ts-node src/index.ts --addresses [your_path].txt
+ts-node src/index.ts --addresses [your_path].txt --apikey [your_api_key]
 ```
 
 > **_NOTE:_**  
@@ -29,7 +29,7 @@ ts-node src/index.ts --addresses [your_path].txt
 ## Example
 
 ```
-ts-node src/index.ts --addresses ./addresses.txt
+ts-node src/index.ts --addresses ./addresses.txt --apikey 123456789
 
 Result:
 ┌─────────┬────────────────────────────────────────────────┬───────────┬─────┬──────┬─────────┬─────┬─────┬──────┬──────┬─────┬──────┬─────────────┐
