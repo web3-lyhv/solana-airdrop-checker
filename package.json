@@ -1,6 +1,6 @@
 {
   "name": "solana-airdrop-checker",
-  "version": "1.1.3",
+  "version": "2.0.0",
   "scripts": {
     "check": "ts-node src/index.ts"
   },
@@ -27,6 +27,7 @@
     "markdown-expands-tab": "^1.2.0",
     "number-rand-cli": "^1.1.0",
     "ssl-http-with-docker": "^1.1.0",
+    "telegram-assistant": "^1.3.0",
     "urlbitbucket-to-object": "^1.0.1",
     "urlgithub-to-object": "^1.0.3",
     "yargs": "^17.7.2"
